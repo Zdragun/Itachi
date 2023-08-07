@@ -1,1 +1,1 @@
-- [Link to Deployed app on Github Pages](https://zdragun.github.io/Itachi/)
+- [Link to Deployed ItachiAPP](https://zdragun.github.io/Itachi/)
